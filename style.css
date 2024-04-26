@@ -28,7 +28,9 @@ p {
     background-color: #00ff0d;
     color: #fff;
     text-decoration: none;
-    border-radius: 65px;
+
+    border-radius: 15px;
+
     transition: background-color 0.3s ease;
 }
 .btn:hover {
